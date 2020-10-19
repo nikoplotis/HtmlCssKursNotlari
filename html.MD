@@ -8,15 +8,18 @@
 * title="Paragraf" yaparak cursor yazının üzerine geldiğinde etiket göstermesini sağlayabilirsiniz. 
 
   ![title](img/title.png)
+
 * style="" kullanarak tagımızın birçok özelliğini değiştirebiliriz. Bu özellikler:
   
   ![style](img/ozellik.png) 
 
 # Ders 3
 * \<h1> den \<h6>'ya kadar başlık elemendini kullanabiliriz. 
+
 ![başlık](img/h1.png)
 
 * \<hr> tagını kullanarak çizgi çekebiliriz. Bu çizgi kıtaları vs. ayırmaya yarayabilir. 
+
 ![çizgi](img/br.png)
 
 * \<br> tagını kullanmak yerine \<pre> tagını kullanarak yazıyı olduğu gibi yansıtabilirsiniz.
