@@ -18,7 +18,7 @@
 
 ![başlık](img/h1.png)
 
-* \<hr> tagını kullanarak çizgi çekebiliriz. Bu çizgi kıtaları vs. ayırmaya yarayabilir. 
+* \<hr> tagını kullanarak yazıyı bölebiliriz. Bu çizgi kıtaları vs. ayırmaya yarayabilir. 
 
 ![çizgi](img/br.png)
 
