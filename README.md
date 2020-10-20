@@ -1,2 +1,2 @@
 # Html Css Kurs Notlarım
-* Bu repository [Sıfırdan Örneklerle HTML5 ve CSS3 Kursu](https://www.udemy.com/course/sifirdan-orneklerle-html5-ve-css3-kursu/) eğitimini izlerken aldığım notları içermektedir. Umarım işinize yarar. Temiz kodlar dilerim.
+* Bu repository [Sıfırdan Örneklerle HTML5 ve CSS3 Kursu](https://www.udemy.com/course/sifirdan-orneklerle-html5-ve-css3-kursu/) eğitimini izlerken aldığım notları içermektedir. Umarım işinize yarar. Temiz kodlar dilerim. @akiffeyzioglu 'nun katkılarıyla.
