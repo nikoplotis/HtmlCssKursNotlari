@@ -1,25 +1,48 @@
 # Ders 1 
-* Ana vücudu oluşturmak için "!" kullanılır.
-* Paragraf oluşturmak için \<p>\</p> tagı kullanılır.
-* Boşluk bırakmak için \<br> tagı kullanılır.
-* Bold yazı yazmak için elementin içine \<strong>\</strong> yazılır.
-# Ders 2
-* Atribute ilk tagın içine yazılır. 
-* title="Paragraf" yaparak cursor yazının üzerine geldiğinde etiket göstermesini sağlayabilirsiniz. 
+* Ana vücudu oluşturmak için "html:5" kullanılır.
+* \<title>Genel Bilgiler\</title> elementlerinin arasına yazı yazarak sekme kısmında görünmesini sağlayabiliriz. 
 
-  ![title](img/title.png)
+![title](img/titlesekme.png)
+
+* Paragraf oluşturmak için \<p>\</p> tagı kullanılır.
+
+
+# Ders 2
+* \<p>\</p> bu bir paragraf elementidir. Başlangıç ve bitiş elementi olup sondaki elementte / karakteri bulunur.
+
+* Boşluk bırakmak için \<br> elementi kullanılır. Bu gibi elementlere boş element denir. Bitiş elementi bulunmaktadır.
+
+* Bold yazı yazmak için elementin içine \<strong>\</strong> yazılır.
+
+
+# Ders 3
+* Atribute'lar başlangıç elementinin içine yazılır.
+![style](img/style.png)
+![res](img/redstyle.png)
+
 
 * style="" kullanarak tagımızın birçok özelliğini değiştirebiliriz. Bu özellikler:
   
   ![style](img/ozellik.png) 
 
-# Ders 3
+* title="Etiket" yaparak cursor yazının üzerine geldiğinde etiket göstermesini sağlayabiliriz.
+
+  ![title](img/title.png)
+  ![title](img/titleex.png)
+  
+* \<hmtl lang="tr"> bu şekilde yaparak Türkçe aramaların sonuçlarında görünürüz.
+
+# Ders 4
 * \<h1> den \<h6>'ya kadar başlık elemendini kullanabiliriz. 
 
 ![başlık](img/h1.png)
 
-* \<hr> tagını kullanarak yazıyı bölebiliriz. Bu çizgi kıtaları vs. ayırmaya yarayabilir. 
+* \<hr> tagını kullanarak yazıyı çizgi ile bölebiliriz. Bu çizgi kıtaları vs. ayırmaya yarayabilir. 
 
+![hrkod](img/hrtagı.png)
 ![çizgi](img/br.png)
 
-* \<br> tagını kullanmak yerine \<pre> tagını kullanarak yazıyı olduğu gibi yansıtabilirsiniz.
+
+* \<br> tagını kullanmak yerine \<pre> tagını kullanarak yazıyı olduğu gibi yansıtabilirsiniz. Bu tagı kullandığımız zaman yazı fontumuz değişecektir.
+![pre](img/pre.png)
+![preeex](img/preex.png)W
