@@ -64,3 +64,12 @@
 * Yazıyı italic yazmak için `<i></i>` tagı kullanılır.
 
 * Yazıya italic vermek için başka bir yöntem olarak `<em></em>` tagı kullanılır. 
+
+# Ders 6 
+* Yazarın sözleri gibi sözleri yazarken `<q></q>` tagını kullanabiliriz.
+
+* Mail adresi gibi adresleri yazacağımız zaman `<adress></adress>` tagını kullanabiliriz.
+
+* Şehir gibi isimleri yazarken `<city></city>` tagı kullanabiliriz.
+
+* Yazıyı tersten yazdırmak için `<bdo dir="rtl"></bdo>` tagını kullanabiliriz.
