@@ -17,8 +17,10 @@
 
 # Ders 3
 * Atribute'lar başlangıç elementinin içine yazılır.
-![style](img/style.png)
+
 ![res](img/redstyle.png)
+
+![style](img/style.png)
 
 
 * `style=""` kullanarak tagımızın birçok özelliğini değiştirebiliriz. Bu özellikler:
@@ -73,3 +75,34 @@
 * Şehir gibi isimleri yazarken `<city></city>` tagı kullanabiliriz.
 
 * Yazıyı tersten yazdırmak için `<bdo dir="rtl"></bdo>` tagını kullanabiliriz.
+
+# Ders 7
+
+* Yorum satırı yazmak için `<!-- yorum -->` kullanılır. 
+
+* HEX kodları ile renk verebilirsiniz. `#ff6347` 
+
+* RGB kodları ile renk verebilirsiniz. `rgb(255, 99, 71)`
+
+* RGB kodlarının sonuna bir bölüm daha ekleyerek opacityyi ayarlayabilirsiniz. `rgba(255, 99, 71, 0.5)`
+
+# Ders 8
+
+* Html dosyasına Css bağlantısı yapmak için `<link></link>` elementi kulllanılır. Örnek: `<link rel="stylesheet" href="css-file/main.css">`
+
+# Ders 9
+
+* `<a href="https://www.omerayyildiz.com">Ömer Ayyıldız</a>` yazarak yazının üstüne tıklandığında belirttiğimiz siteye yönlendirebiliriz. 
+
+* `<a href="https://www.omerayyildiz.com" target="_self">Ömer Ayyıldız</a>` yaptığımızda aynı sekme içerisinde açar. `<a href="https://www.omerayyildiz.com" target="_blank">Ömer Ayyıldız</a>` yaptığımızda ise farklı bir sekmede açar.
+
+* `<a href="https://www.omerayyildiz.com">Ömer Ayyıldız</a>` bu bir absolute değer. `<a href="ders8.html">Ömer Ayyıldız</a>` ise raletive bir değer. Absolute farklı bir domaine yönlendirir. Relative ise aynı klasör içindeki farklı bir dosyaya yönlendirmek için kullanılıyor. 
+
+* `<a href="https://www.github.com/nikoplotis">
+     <img src="https://avatars2.githubusercontent.com/u/52634421?s=60&v=4" alt="nikoplotis">
+    </a>` Bu şekilde resimlerede link atayabiliriz. Absolute veya relative olabilir. `alt=""` ise resimin kaynağını bulamadığı zaman göstereceği yazıdır. 
+
+* `<a href="mailto:nikoplotis@gmail.com">İletişim</a>` kullanarak belirttiğimiz mail adresine mail gönderilmesini sağlayabiliriz. 
+
+* Title elementini link kavramlarındada kullanabiliriz. 
+
